@@ -1,4 +1,4 @@
-;;; simple-dark-theme.el --- Theme
+;; simple-dark-theme.el --- Theme -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2022 , tek256
 
